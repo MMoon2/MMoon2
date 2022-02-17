@@ -1,8 +1,8 @@
-# **TEI Project Review**
+# TEI Project Review
 
 ### By Meghan Moon
 
-#### **Project Overview**
+#### Project Overview
 
 For my class's TEI project, we were instructed to translate a piece from a novel into XML, extensible markup language. To begin, we were each assigned a separate section from _Dracula’s Guest_, a short story by Bram Stoker. The piece was published within _Dracula’s Guest and Other Weird Stories_ and is believed to have been a discarded draft of the first chapter to the novel, _Dracula_.  
 
