@@ -1,14 +1,14 @@
-# TEI Project Review
+# **TEI Project Review**
 
 ### By Meghan Moon
 
-#### Project Overview
+#### **Project Overview**
 
 For my class's TEI project, we were instructed to translate a piece from a novel into XML, extensible markup language. To begin, we were each assigned a separate section from _Dracula’s Guest_, a short story by Bram Stoker. The piece was published within _Dracula’s Guest and Other Weird Stories_ and is believed to have been a discarded draft of the first chapter to the novel, _Dracula_.  
 
 The piece is about an unnamed man who wanders off on Walpurgis Night, the night before Halloween. He gets caught in a storm and finds himself in a cemetery before being frightened by the sight of a wolf. He is soon saved and brought back home where he finds a note from Count Dracula claiming to have saved him.  
 
-### Annotating our Text
+#### Annotating our Text
 
 Our first task for the TEI project was to highlight any features within the text that require special coding. To do this, I used Google Docs to denote any page breaks, separate paragraphs, insert quotation marks, highlight em-dashes, add notes, and more. I created comments within the document by highlighting each variable adding a comment to record the type of special coding it would require.   
 
