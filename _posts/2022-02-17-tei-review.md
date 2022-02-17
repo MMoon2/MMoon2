@@ -12,7 +12,7 @@ The piece is about an unnamed man who wanders off on Walpurgis Night, the night 
 
 Our first task for the TEI project was to highlight any features within the text that require special coding. To do this, I used Google Docs to denote any page breaks, separate paragraphs, insert quotation marks, highlight em-dashes, add notes, and more. I created comments within the document by highlighting each variable adding a comment to record the type of special coding it would require.   
 
-![paragraph](MMoon2.github.io/Mmoon2/images/paragraph.png)
+![paragraph](images/paragraph.png)
 
 #### Coding with Oxygen
 
