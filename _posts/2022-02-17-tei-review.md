@@ -20,7 +20,7 @@ Once I annotated my assigned text, I began the coding process within Oxygen, the
 
 Next, I added a paragraph tag under the publication tag with the words, “Publication Information,” and then added an additional paragraph tag under the source tag which contained a link to the 1914 edition of the novel.  
 
-![paragraph](MMoon2.github.io/MMoon2/images/paragraph.png)
+![paragraph](https://MMoon2.github.io/MMoon2/images/paragraph.png)
 
 Finally, I created two sets of opening and closing paragraph tags within the body and pasted the two paragraphs of text I had been assigned within each. Once my text was in place, I referred back to my Google Doc and began entering the code for each special character I flagged in my annotation.  
 
