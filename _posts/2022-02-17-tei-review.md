@@ -6,7 +6,7 @@
 
 For my class's TEI project, we were instructed to translate a piece from a novel into XML, extensible markup language. To begin, we were each assigned a separate section from [_Dracula’s Guest_](http://www.bramstoker.org/stories/03guest.html), a short story by Bram Stoker. The piece was published within _Dracula’s Guest and Other Weird Stories_ and is believed to have been a discarded draft of the first chapter to the novel, _Dracula_.  
 
-The piece is about an unnamed man who wanders off on Walpurgis Night, the night before Halloween. He gets caught in a storm and finds himself in a cemetery before being frightened by the sight of a wolf. He is soon saved and brought back home where he finds a note from Count Dracula claiming to have saved him.  
+The piece is about an unnamed man who wanders off on [Walpurgis Night](https://en.wikipedia.org/wiki/Walpurgis_Night). He gets caught in a storm and finds himself in a cemetery before being frightened by the sight of a wolf. He is soon saved and brought back home where he finds a note from Count Dracula claiming to have saved him.  
 
 #### Annotating our Text
 
