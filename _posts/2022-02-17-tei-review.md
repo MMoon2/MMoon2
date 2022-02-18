@@ -26,7 +26,7 @@ Finally, I created two sets of opening and closing paragraph tags within the bod
 
 ![code](https://MMoon2.github.io/MMoon2/images/code.png)
 
-Because my text included several em-dashes, I tackled those first. The code for an em-dash is as follows: &#8212;. I deleted the formal em-dashes from the text and replaced them with the special character code.   
+Because my text included several em-dashes, I tackled those first. The code for an em-dash is as follows: "&#8212;". I deleted the formal em-dashes from the text and replaced them with the special character code.   
 
 ![emdash](https://MMoon2.github.io/MMoon2/images/emdash.png)
 
@@ -34,7 +34,7 @@ Next, I added in the note tags. The purpose of these tags is to add a definition
 
 ![note](https://MMoon2.github.io/MMoon2/images/note.png)
 
-The last element I needed to add to my code was a page break which occurred in the middle of my second paragraph. To do this, I deleted “[Page 11]” from the text and replaced it with the following code: <pb n=”11” />.  
+The last element I needed to add to my code was a page break which occurred in the middle of my second paragraph. To do this, I deleted “[Page 11]” from the text and replaced it with the following code: "<pb n=”11” />".  
 
 ![pagebreak](https://MMoon2.github.io/MMoon2/images/pagebreak.png)
 
