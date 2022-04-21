@@ -21,8 +21,6 @@ My initial definition was quite broad as I had an idea of the concept but had ne
 Although not an incorrect definition, my newer definition gives further examples in order to explain the outcome of the field, stating: “Digital Humanities refers to educating an audience through the use of technology, such as digital maps, 3D reconstructions, interactive timelines, and more.” 
 As you can see, the ability to work directly with, and consider creating our own, Digital Humanities projects allowed me to better understand the significance and purpose of the field. 
 
-![meme](https://MMoon2.github.io/MMoon2/images/meme.jpg)
-
 The readings were beneficial in giving in-depth explanations or providing examples as to Digital Humanities and the current assignments we were working on. I really enjoyed one of the first assigned readings which was the website that gave hundreds of different definitions of the field. This site gave great insight to Digital Humanities and provided different definitions that each resonate with someone different. I also really enjoyed the eye-tracking reading that discussed where people tend to look when entering a website. As someone who enjoys coding and creating websites, working with websites, and managing social media for organizations, this information was very helpful and I have taken it into consideration on every project that I work on since then. 
 
 ![EyeTracking](https://MMoon2.github.io/MMoon2/images/EyeTracking.png)
