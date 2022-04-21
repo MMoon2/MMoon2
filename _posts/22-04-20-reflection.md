@@ -1,6 +1,5 @@
 # Reflection
 #### By Meghan Moon
-
 ---
 
 I initially signed up for this course because I felt that learning how to write for the digital humanities would greatly help me in my future career. I have interned as a marketing/ social media manager a few times with different organizations and creating content and written communication to disperse digitally was vital to the job.  
