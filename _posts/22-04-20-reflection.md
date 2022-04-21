@@ -33,4 +33,4 @@ If there were anything I might change to the course, it would be adding a class 
 
 Overall, the class has helped me immensely with my writing skills and has introduced me to new tools through projects and proposal research that I will utilize often in my future career!
 
-![thanks](https://MMoon2.github.io/MMoon2/images/thanks.png)
+![Thanks](https://MMoon2.github.io/MMoon2/images/Thanks.png)
