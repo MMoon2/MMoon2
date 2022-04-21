@@ -14,10 +14,14 @@ I always found that my final product was better than my draft after having someo
 
 After taking this course, I definitely feel that my understanding of Digital Humanities has widened and I am able to more clearly define the field itself. In the beginning of the course, we were asked to define Digital Humanities within a Google Doc and at the end of the semester, we revised this definition to our current understanding of the field. 
 
+![dh](https://MMoon2.github.io/MMoon2/images/dh.jpg)
+
 My initial definition was quite broad as I had an idea of the concept but had never been given the chance to create or work with a digital humanities project before. My first definition was as follows: “Digital Humanities refer to the field that surrounds understanding the humanities through the use of technology.” 
 
 Although not an incorrect definition, my newer definition gives further examples in order to explain the outcome of the field, stating: “Digital Humanities refers to educating an audience through the use of technology, such as digital maps, 3D reconstructions, interactive timelines, and more.” 
 As you can see, the ability to work directly with, and consider creating our own, Digital Humanities projects allowed me to better understand the significance and purpose of the field. 
+
+![meme](https://MMoon2.github.io/MMoon2/images/meme.jpg)
 
 The readings were beneficial in giving in-depth explanations or providing examples as to Digital Humanities and the current assignments we were working on. I really enjoyed one of the first assigned readings which was the website that gave hundreds of different definitions of the field. This site gave great insight to Digital Humanities and provided different definitions that each resonate with someone different. I also really enjoyed the eye-tracking reading that discussed where people tend to look when entering a website. As someone who enjoys coding and creating websites, working with websites, and managing social media for organizations, this information was very helpful and I have taken it into consideration on every project that I work on since then. 
 
@@ -30,3 +34,5 @@ If there were anything I might change to the course, it would be adding a class 
 ![Leaflet](https://MMoon2.github.io/MMoon2/images/Leaflet.png)
 
 Overall, the class has helped me immensely with my writing skills and has introduced me to new tools through projects and proposal research that I will utilize often in my future career!
+
+![thanks](https://MMoon2.github.io/MMoon2/images/thanks.png)
