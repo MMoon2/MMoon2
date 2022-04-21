@@ -6,7 +6,7 @@ I initially signed up for this course because I felt that learning how to write 
 
 Learning how to write in a more concise manner while remaining professional was something that I looked forward to learning and practicing within this course. When the course began, I was very excited to learn TEI coding and Github as I enjoy the process of coding and have heard a lot about Github that I wanted to explore for myself.  
 
-![git](https://MMoon2.github.io/MMoon2/images/git.jpg)
+![Git](https://MMoon2.github.io/MMoon2/images/Git.png)
 
 As the course progressed and we began using these tools, I was able to learn the ways around them and the best ways to communicate through them as well. For example, writing in smaller, more concise sections in Github has helped me while posting on different social media platforms professionally. 
 My experience in the class has been positive as I have been given the opportunity to learn new things, practice my communication skills within different platforms, such as Github and Twitter, and receive peer feedback on all of my writings. 
